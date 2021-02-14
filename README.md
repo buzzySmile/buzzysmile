@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="left">
+	<a href="https://github.com/buzzysmile"><img src="https://img.shields.io/github/followers/buzzysmile.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/buzzysmile"><img src="https://img.shields.io/twitter/follow/buzzysmile?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/alexvmakarov/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByqfOK2USRa%2BsDmHqaAHR2w%3D%3D"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
