@@ -1,6 +1,7 @@
-[![buzzysmile Stats](https://github-readme-stats.vercel.app/api?username=buzzysmile&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/buzzysmile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buzzysmile&theme=tokyonight)](https://www.linkedin.com/in/alexvmakarov/)
 
 <!--
+[![buzzysmile Stats](https://github-readme-stats.vercel.app/api?username=buzzysmile&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/buzzysmile)
 **buzzySmile/buzzysmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
